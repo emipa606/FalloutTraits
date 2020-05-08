@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GunNutHappy.stages.0.label>gun nut has ranged weapon</GunNutHappy.stages.0.label>
-  <GunNutHappy.stages.0.description>I love guns! Where's something I can shoot at?</GunNutHappy.stages.0.description>
-
-
+  <GunNutHappy.stages.0.label>У любителя пушек оружие дальнего боя</GunNutHappy.stages.0.label>
+  <GunNutHappy.stages.0.description>Я люблю пушки! Где что-нибудь, во что я могу пострелять?</GunNutHappy.stages.0.description>
 </LanguageData>
