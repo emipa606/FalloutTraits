@@ -10,12 +10,15 @@
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
+  <loadAfter>
+    <li>syrchalis.traitvalue</li>
+  </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of Fuglypumps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1209071221
 
 - Russian translation added, provided by user Loki
+- Verified CE-support
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
@@ -29,9 +32,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1209071221
 [img]https://i.imgur.com/NOW7jU1.png[/img]
 
 Adds over 30 new traits to Rimworld taken directly from Fallout 4's perk chart and reimagined to fit into Rimworld as traits adding a massive amount of variety to the game's trait pool without straying too far from vanilla. Many traits have both positive and negitive modifiers and some even have all negitive values. The most powerful and negitive traits have rare odds so that they don't appear too often and many unwanted trait combinations are restricted to preserve gameplay and immersion.
-
-[url=https://github.com/Fuglypump/Fallout-Traits]GitHub Download[/url]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1515194122]B18 Version[/url]
 
 [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1199777454andsearchtext=traits][RF] More Trait Slots [B18][/url] combined with this mod can be pretty amazing because many of these traits are designed to stack with other traits, increasing the number of slots just multiplies the crazy combinations you can have.
 
@@ -138,5 +138,18 @@ Adds over 30 new traits to Rimworld taken directly from Fallout 4's perk chart a
 - Using this mod with other mods that add traits probably won't break the game but you may end up with weird or broken trait combinations so I don't recommend it, this mod is designed to be the major source of additional traits to your game, but you can do whatever you want to. =P
 
 [h1][u]Translations[/u][/h1]
-I only speak English, but if you are able to translate this mod into another language for me I will add them to the mod. If you want to translate just post a comment saying what languages you're willing to translate.</description>
+I only speak English, but if you are able to translate this mod into another language for me I will add them to the mod. If you want to translate just post a comment saying what languages you're willing to translate.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
