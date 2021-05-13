@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FT_FrailBack.degreeDatas.0.label>dos fragile</FT_FrailBack.degreeDatas.0.label>
+  <FT_FrailBack.degreeDatas.0.description>[PAWN_nameDef] a un dos fragile, donc [PAWN_pronoun] ne peut pas porter autant qu'une personne moyenne.</FT_FrailBack.degreeDatas.0.description>
+  <FT_StrongBack.degreeDatas.0.label>dos solide</FT_StrongBack.degreeDatas.0.label>
+  <FT_StrongBack.degreeDatas.0.description>[PAWN_nameDef] a un dos solide qui permet à [PAWN_objective] de porter plus que la plupart des gens.</FT_StrongBack.degreeDatas.0.description>
+  <FT_StrongBack.degreeDatas.1.label>dos très solide</FT_StrongBack.degreeDatas.1.label>
+  <FT_StrongBack.degreeDatas.1.description>[PAWN_nameDef] a un dos très fort, doit être croisé avec un mulet ou quelque chose comme ça. [PAWN_pronoun] peut transporter deux fois plus qu'une personne normale.</FT_StrongBack.degreeDatas.1.description>
+  <FT_AnimalFriend.degreeDatas.0.label>ami des animaux</FT_AnimalFriend.degreeDatas.0.label>
+  <FT_AnimalFriend.degreeDatas.0.description>[PAWN_nameDef] a une passion pour les animaux. [PAWN_pronoun] obtient des bonus pour toutes les interactions avec les animaux.</FT_AnimalFriend.degreeDatas.0.description>
+  <FT_Ghoulish.degreeDatas.0.label>macabre</FT_Ghoulish.degreeDatas.0.label>
+  <FT_Ghoulish.degreeDatas.0.description>[PAWN_nameDef] est toujours humain(e), principalement. [PAWN_pronoun] est immunisé contre les effets des retombées toxiques, mais son apparence macabre rend les interactions avec les autres difficiles.</FT_Ghoulish.degreeDatas.0.description>
+  <FT_RadResistant.degreeDatas.0.label>résistant aux radiations</FT_RadResistant.degreeDatas.0.label>
+  <FT_RadResistant.degreeDatas.0.description>Le corps de [PAWN_nameDef] a développé une résistance aux effets négatifs des retombées toxiques.</FT_RadResistant.degreeDatas.0.description>
+  <FT_ActionBoy.degreeDatas.0.label>actif</FT_ActionBoy.degreeDatas.0.label>
+  <FT_ActionBoy.degreeDatas.0.description>Il n'y a pas de temps à perdre! [PAWN_nameDef] a augmenté sa vitesse de déplacement et de travail.</FT_ActionBoy.degreeDatas.0.description>
+  <FT_ActionGirl.degreeDatas.0.label>active</FT_ActionGirl.degreeDatas.0.label>
+  <FT_ActionGirl.degreeDatas.0.description>Il n'y a pas de temps à perdre! [PAWN_nameDef] a augmenté sa vitesse de déplacement et de travail.</FT_ActionGirl.degreeDatas.0.description>
+  <FT_QuickHands.degreeDatas.0.label>mains rapides</FT_QuickHands.degreeDatas.0.label>
+  <FT_QuickHands.degreeDatas.0.description>[PAWN_nameDef] a des mains rapides. En ce qui concerne [PAWN_possessive] mains, [PAWN_nameDef] n'hésite jamais.</FT_QuickHands.degreeDatas.0.description>
+  <FT_IdiotSavant.degreeDatas.0.label>idiot savant</FT_IdiotSavant.degreeDatas.0.label>
+  <FT_IdiotSavant.degreeDatas.0.description>[PAWN_nameDef] n'est pas stupide! [PAWN_pronoun] est juste ... différent. [PAWN_pronoun] apprend deux fois plus vite mais travaille plus lentement que la normale, [PAWN_pronoun] est également incapable de gérer certaines tâches.</FT_IdiotSavant.degreeDatas.0.description>
+  <FT_Charisma.degreeDatas.0.label>charismatique</FT_Charisma.degreeDatas.0.label>
+  <FT_Charisma.degreeDatas.0.description>[PAWN_nameDef] a une personnalité charismatique. [PAWN_pronoun] obtient des bonus pour toutes les interactions sociales avec des humains.</FT_Charisma.degreeDatas.0.description>
+  <FT_Charisma.degreeDatas.1.label>très charismatique</FT_Charisma.degreeDatas.1.label>
+  <FT_Charisma.degreeDatas.1.description>[PAWN_nameDef] a une personnalité très charismatique. [PAWN_pronoun] obtient des bonus pour toutes les interactions sociales avec des humains.</FT_Charisma.degreeDatas.1.description>
+  <FT_GunNut.degreeDatas.0.label>fou des armes</FT_GunNut.degreeDatas.0.label>
+  <FT_GunNut.degreeDatas.0.description>[PAWN_nameDef] est un cinglé, [PAWN_pronoun] adore les armes à feu. [PAWN_pronoun] obtient un bonus d'humeur en tenant une arme à feu.</FT_GunNut.degreeDatas.0.description>
+  <FT_Rooted.degreeDatas.0.label>enraciné</FT_Rooted.degreeDatas.0.label>
+  <FT_Rooted.degreeDatas.0.description>[PAWN_nameDef] fait partie de l'arbre! [PAWN_pronoun] peut vraiment prendre une raclée!</FT_Rooted.degreeDatas.0.description>
+  <FT_Intimidation.degreeDatas.0.label>intimidant</FT_Intimidation.degreeDatas.0.label>
+  <FT_Intimidation.degreeDatas.0.description>[PAWN_nameDef] a une personnalité intimidante, ce qui donne à [PAWN_objective] un avantage dans les interactions sociales.</FT_Intimidation.degreeDatas.0.description>
+  <FT_Intimidation.degreeDatas.1.label>très intimidant</FT_Intimidation.degreeDatas.1.label>
+  <FT_Intimidation.degreeDatas.1.description>[PAWN_nameDef] a une personnalité très intimidante, ce qui donne à [PAWN_objective] un gros avantage dans les interactions sociales.</FT_Intimidation.degreeDatas.1.description>
+  <FT_Scrapper.degreeDatas.0.label>ferrailleur</FT_Scrapper.degreeDatas.0.label>
+  <FT_Scrapper.degreeDatas.0.description>[PAWN_nameDef] est bon pour travailler avec de la ferraille. [PAWN_pronoun] est excellent avec une fonderie et est efficace lors de l'utilisation de matériaux de construction.</FT_Scrapper.degreeDatas.0.description>
+  <FT_FortuneFinder.degreeDatas.0.label>chercheur de trésor</FT_FortuneFinder.degreeDatas.0.label>
+  <FT_FortuneFinder.degreeDatas.0.description>[PAWN_nameDef] semble découvrir des richesses cachées partout où [PAWN_pronoun] va.</FT_FortuneFinder.degreeDatas.0.description>
+  <FT_AimOffset.degreeDatas.0.label>bigleux</FT_AimOffset.degreeDatas.0.label>
+  <FT_AimOffset.degreeDatas.0.description>[PAWN_nameDef] a une mauvaise coordination oeil-main et manquera plus souvent sa cible au combat.</FT_AimOffset.degreeDatas.0.description>
+  <FT_AimOffset.degreeDatas.1.label>oeil d'aigle</FT_AimOffset.degreeDatas.1.label>
+  <FT_AimOffset.degreeDatas.1.description>[PAWN_nameDef] a une excellente coordination oeil-main et manquera moins souvent sa cible au combat.</FT_AimOffset.degreeDatas.1.description>
+  <FT_Agility.degreeDatas.0.label>agile</FT_Agility.degreeDatas.0.label>
+  <FT_Agility.degreeDatas.0.description>[PAWN_nameDef] a de bons réflexes et se déplace avec finesse. [PAWN_pronoun] esquivera plus d'attaques en combat au corps à corps.</FT_Agility.degreeDatas.0.description>
+  <FT_Agility.degreeDatas.1.label>ninja</FT_Agility.degreeDatas.1.label>
+  <FT_Agility.degreeDatas.1.description>[PAWN_nameDef] a de bons réflexes et se déplace comme un ninja. [PAWN_pronoun] esquivera plus d'attaques en combat au corps à corps.</FT_Agility.degreeDatas.1.description>
+  <FT_Stupid.degreeDatas.0.label>stupide</FT_Stupid.degreeDatas.0.label>
+  <FT_Stupid.degreeDatas.0.description>[PAWN_nameDef] n'est pas très intelligent. [PAWN_pronoun] peut tout gâcher en faisant à peu près n'importe quoi.</FT_Stupid.degreeDatas.0.description>
+  <FT_Intelligence.degreeDatas.0.label>intelligent</FT_Intelligence.degreeDatas.0.label>
+  <FT_Intelligence.degreeDatas.0.description>[PAWN_nameDef] est plus intelligent que la moyenne. [PAWN_pronoun] apprend plus vite et a une bonne compréhension du monde qui l'entoure [PAWN_objective].</FT_Intelligence.degreeDatas.0.description>
+  <FT_Intelligence.degreeDatas.1.label>très intelligent</FT_Intelligence.degreeDatas.1.label>
+  <FT_Intelligence.degreeDatas.1.description>[PAWN_nameDef] est très intelligent. [PAWN_pronoun] apprend plus vite et a une excellente compréhension du monde qui l'entoure [PAWN_objective].</FT_Intelligence.degreeDatas.1.description>
+  <FT_Oblivious.degreeDatas.0.label>inconscient</FT_Oblivious.degreeDatas.0.label>
+  <FT_Oblivious.degreeDatas.0.description>[PAWN_nameDef] n'est pas très conscient de son environnement ou de quoi que ce soit en fait.</FT_Oblivious.degreeDatas.0.description>
+  <FT_Perception.degreeDatas.0.label>Perspicace</FT_Perception.degreeDatas.0.label>
+  <FT_Perception.degreeDatas.0.description>[PAWN_nameDef] a une bonne connaissance de son environnement et une bonne compréhension de la façon dont ses actions affectent les autres.</FT_Perception.degreeDatas.0.description>
+  <FT_Perception.degreeDatas.1.label>Très perspicace</FT_Perception.degreeDatas.1.label>
+  <FT_Perception.degreeDatas.1.description>[PAWN_nameDef] a une très bonne connaissance de son environnement et une bonne compréhension de la façon dont ses actions affectent les autres.</FT_Perception.degreeDatas.1.description>
+  <FT_Scrounger.degreeDatas.0.label>Profiteur</FT_Scrounger.degreeDatas.0.label>
+  <FT_Scrounger.degreeDatas.0.description>[PAWN_nameDef] sait comment récupérer et rassembler des ressources rapidement.</FT_Scrounger.degreeDatas.0.description>
+  <FT_Endurance.degreeDatas.0.label>endurant</FT_Endurance.degreeDatas.0.label>
+  <FT_Endurance.degreeDatas.0.description>[PAWN_nameDef] a une bonne santé et une personnalité durable. [PAWN_pronoun] est meilleur que d'autres pour gérer les situations stressantes.</FT_Endurance.degreeDatas.0.description>
+  <FT_Endurance.degreeDatas.1.label>très endurant</FT_Endurance.degreeDatas.1.label>
+  <FT_Endurance.degreeDatas.1.description>[PAWN_nameDef] a une santé exceptionnelle et une personnalité très durable. [PAWN_pronoun] est capable de gérer des situations de stress élevé que les autres ne peuvent pas.</FT_Endurance.degreeDatas.1.description>
+</LanguageData>
