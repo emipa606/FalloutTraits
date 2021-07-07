@@ -6,6 +6,7 @@ Update of Fuglypumps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1209071221
 
 - Russian translation added, provided by user Loki
+- Added french translation, thanks qux!
 - Verified CE-support
 - Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value
 
@@ -24,7 +25,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1209071221
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
 
-Adds over 30 new traits to Rimworld taken directly from Fallout 4's perk chart and reimagined to fit into Rimworld as traits adding a massive amount of variety to the game's trait pool without straying too far from vanilla. Many traits have both positive and negitive modifiers and some even have all negitive values. The most powerful and negitive traits have rare odds so that they don't appear too often and many unwanted trait combinations are restricted to preserve gameplay and immersion.
+Adds over 30 new traits to Rimworld taken directly from Fallout 4&apos;s perk chart and reimagined to fit into Rimworld as traits adding a massive amount of variety to the game&apos;s trait pool without straying too far from vanilla. Many traits have both positive and negitive modifiers and some even have all negitive values. The most powerful and negitive traits have rare odds so that they don&apos;t appear too often and many unwanted trait combinations are restricted to preserve gameplay and immersion.
 
 http://steamcommunity.com/sharedfiles/filedetails/?id=1199777454andsearchtext=traits][RF] More Trait Slots [B18] combined with this mod can be pretty amazing because many of these traits are designed to stack with other traits, increasing the number of slots just multiplies the crazy combinations you can have.
 
@@ -131,11 +132,11 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=1199777454andsearchtext=tr
 # [u]Compatibility:[/u]
 
 - This mod works very well with http://steamcommunity.com/sharedfiles/filedetails/?id=1199777454andsearchtext=traits][RF] More Trait Slots [b18] because of the many restricted restrictions on trait combinations
-- Using this mod with other mods that add traits probably won't break the game but you may end up with weird or broken trait combinations so I don't recommend it, this mod is designed to be the major source of additional traits to your game, but you can do whatever you want to. =P
+- Using this mod with other mods that add traits probably won&apos;t break the game but you may end up with weird or broken trait combinations so I don&apos;t recommend it, this mod is designed to be the major source of additional traits to your game, but you can do whatever you want to. =P
 
 # [u]Translations[/u]
 
-I only speak English, but if you are able to translate this mod into another language for me I will add them to the mod. If you want to translate just post a comment saying what languages you're willing to translate.
+I only speak English, but if you are able to translate this mod into another language for me I will add them to the mod. If you want to translate just post a comment saying what languages you&apos;re willing to translate.
 
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
