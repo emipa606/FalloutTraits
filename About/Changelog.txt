@@ -1,5 +1,8 @@
 # Changelog for FalloutTraits
 
+1.0.11.0 - Added end-of-life message
+
+
 1.0.10.0 - Mod updated for 1.3 and passed autotests
 
 
